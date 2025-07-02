@@ -1,4 +1,4 @@
-# CosmicChronicles 🚀
+# CosmicChronicles 
 
 CosmicChronicles is a web app that turns astronomical education into an immersive digital experience.
 
