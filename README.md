@@ -10,8 +10,7 @@ To run this project locally:
 # Clone the repository
 git clone https://github.com/deva2534/CosmicChronicles.git
 
-# Create and move into the project directory
-mkdir CosmicChronicles
+#move into the project directory
 cd CosmicChronicles
 
 # Install dependencies
