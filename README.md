@@ -132,7 +132,7 @@ npm run dev
 - **Escape**: Stop speech synthesis  
 - **Spacebar**: Activate voice recognition (only on Events page)
 
-> *This Vision Support Mode, everything works perfectly on __Edge__. On __Chrome__, only voice recognition works, and on __Firefox__, only the screen reader works. We are working on full browser compatibility in our future roadmap.*
+> *This Vision Support Mode, everything works perfectly on __Edge__ , __Chrome__, __Safari__  and on __Firefox__, only the screen reader works and not vocie recognition. We are working on full browser compatibility in our future roadmap.*
 
 
 
