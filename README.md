@@ -6,6 +6,24 @@ Discover the wonders of the universe through historical astronomical events, spa
 
 ![Cosmic Chronicles](https://wallpapercat.com/w/full/8/7/7/194290-3840x2160-desktop-4k-outer-space-wallpaper-photo.jpg)
 
+## Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/deva2534/CosmicChronicles.git
+
+#move into the project directory
+cd CosmicChronicles
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
 ##  Features
 
 ### **Space Shuttle Intro Experience**
@@ -86,29 +104,6 @@ Discover the wonders of the universe through historical astronomical events, spa
 - **Date Handling**: date-fns
 - **APIs**: NASA APOD integration
 
-## Getting Started
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/cosmic-chronicles.git
-   cd cosmic-chronicles
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser**
-   Navigate to `http://localhost:5173` to view the application.
-
 ##  Features Overview
 
 ### Navigation Sections
@@ -143,7 +138,7 @@ Discover the wonders of the universe through historical astronomical events, spa
 - **Responsive images** with proper sizing
 - **Efficient state management** with React hooks
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -173,7 +168,7 @@ src/
 └── index.css            # Global styles and animations
 ```
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **NASA** for providing the APOD API and astronomical data
 - **ESA** for space mission information
@@ -181,7 +176,7 @@ src/
 - **Tailwind CSS** for the utility-first CSS framework
 - **Lucide** for the beautiful icon set
 
-## 📞 Support
+## Support
 
 If you encounter any issues or have questions:
 
