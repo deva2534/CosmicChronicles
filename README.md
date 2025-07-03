@@ -128,7 +128,7 @@ npm run dev
 - **Calendar**: Date picker with cosmic styling
 - **Chatbot**: AI assistant for space questions
 - **GameCenter**: Hub for educational games
-- **SolarSystemExplorer**: 3D planetary visualization
+- **SolarSystemExplorer**: 2D planetary visualization
 
 ## Performance Features
 
