@@ -98,6 +98,45 @@ npm run dev
 
 > *Note: Nebula doesn't use any external AI yet—it's planned for future roadmap enhancements. Still, it won't disappoint; it answers some common questions related to the cosmos.*
 
+
+
+# Special Features
+
+### 1. Vision Support Mode for Enhanced Accessibility
+**Empowering those with limited or no sight**
+
+- **Auto-Reading**  - Automatically narrates the page content when enabled
+
+- **Smart Navigation**  - Use the Tab key to switch between **Events** ↔ **Timeline** sections
+
+- **Voice Commands**  - Press Spacebar to activate voice recognition for date navigation
+
+- **Immediate Feedback**  - Get audio confirmation when toggling the feature on/off
+
+### 2. Dynamic Font Scaling for Low Vision Support
+**Designed for partially visible users**
+
+- **Font Range**: 12px to 24px  
+- **Adjustable** in 2px increments for comfortable reading
+
+### 3. Voice Recognition
+**Control the app with natural speech**
+
+- **Natural Language Support**  - Understands phrases like “January 5”, “5th of January”, “Christmas”, etc.
+
+- **Visual Feedback**  - Siri-like pulsing animation while listening
+
+### 4. Keyboard Navigation (Vision Support Mode only)
+
+- **Tab**: Navigate between Events ↔ Timeline  
+- **Escape**: Stop speech synthesis  
+- **Spacebar**: Activate voice recognition (only on Events page)
+
+> *This Vision Support Mode, everything works perfectly on __Edge__. On __Chrome__, only voice recognition works, and on __Firefox__, only the screen reader works. We are working on full browser compatibility in our future roadmap.*
+
+
+
+
 ## Technology Stack
 
 - **Frontend**: React 18 + TypeScript
