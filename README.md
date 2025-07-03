@@ -4,6 +4,9 @@
 
 Discover the wonders of the universe through historical astronomical events, space timelines, educational content, interactive games and many more. Built with TypeScript.
 
+ **Launch the Mission:** [Visit the Deployed Site](https://startling-syrniki-6c91bd.netlify.app/)
+
+
 ![Cosmic Chronicles](https://wallpapercat.com/w/full/8/7/7/194290-3840x2160-desktop-4k-outer-space-wallpaper-photo.jpg)
 
 ## Getting Started
