@@ -65,7 +65,7 @@ npm run dev
 - **Asteroid Defense**: Protect Earth in this space shooter
 
 ### **Daily Horoscope**
-- Personalized cosmic readings (For now its not Dynamic - Its Harcoded values)
+- Personalized cosmic readings (It’s hardcoded for now, dynamic version planned)
 - Zodiac sign information with elements and ruling planets
 - Love, career, and general predictions
 
@@ -132,9 +132,7 @@ npm run dev
 - **Escape**: Stop speech synthesis  
 - **Spacebar**: Activate voice recognition (only on Events page)
 
-> *This Vision Support Mode, everything works perfectly on __Edge__ , __Chrome__, __Safari__ . In  __Firefox__, only the screen reader works and not vocie recognition. We are working on full browser compatibility in our future roadmap.*
-
-
+> *This Vision Support Mode, Works perfectly on __Edge__ , __Chrome__, __Safari__ . In  __Firefox__, only the screen reader works and not voice recognition. We are working on full browser compatibility in our future roadmap.*
 
 
 ## Technology Stack
