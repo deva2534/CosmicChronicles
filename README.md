@@ -216,6 +216,15 @@ src/
 - **Tailwind CSS** for the utility-first CSS framework
 - **Lucide** for the beautiful icon set
 
+## Contributors
+
+| Name              | GitHub Username                             | Role                             |
+|-------------------|---------------------------------------------|----------------------------------|
+| Devakumar S       | [@deva2534](https://github.com/deva2534)    | Developer Lead, R&D             |
+| Mugundhan S       | [@abinavmugundhan](https://github.com/abinavmugundhan) | Developer, Feature Catalyst     |
+| Santharoopan J    | [@SANTHAROOPAN04](https://github.com/SANTHAROOPAN04) | Developer, Product Designer     |
+
+
 ## Support
 
 If you encounter any issues or have questions:
