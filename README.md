@@ -1,4 +1,4 @@
-# Cosmic Chronicles
+# Cosmic Chronicles (Powered by Vision Support Mode)
 
 **An Interactive Astronomical Events Website**
 
